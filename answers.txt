@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Astronomy, data science can be used to locate hard to see craters on celestial bodies.
