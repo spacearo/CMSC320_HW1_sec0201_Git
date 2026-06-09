@@ -2,8 +2,6 @@
 
 Q4: What are you looking forward to this semester?
 
-
-
 Answer: I'm excited to learn new things about data science :)
 
 Q3: What is the difference between Merging and Rebasing?
@@ -13,13 +11,8 @@ Answer: Merging combines the changes from one branch into another by creating a 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Astronomy, data science can be used to locate hard to see craters on celestial bodies.
-=======
-Q1: Why might we consider using Git?  Answer: Answer: We might use Git because it tracks changes to our files, lets us >
- <<<<<<< HEAD
-Q2: What field could data science be applied to? Give an Example.
 
-Answer: Astronomy, data science can be used to locate hard to see craters on celestial bodies.
-=======
-Q1: Why might we consider using Git?  Answer: Answer: We might use Git because it tracks changes to our files, lets us go back to earlier versions, and makes it easier to collaborate with others without losing work.
+Q1: Why might we consider using Git?  
+Answer: We might use Git because it tracks changes to our files, lets us go back to earlier versions, and makes it easier to collaborate with others without losing work.
 
->>>>>>> q1
+
