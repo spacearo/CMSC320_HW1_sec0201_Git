@@ -1,0 +1,2 @@
+Q1: Why might we consider using Git?  Answer: Answer: We might use Git because it tracks changes to our files, lets us go back to earlier versions, and makes it easier to collaborate with others without losing work.
+
